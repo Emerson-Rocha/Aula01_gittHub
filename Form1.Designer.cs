@@ -114,7 +114,7 @@
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(95, 60);
             this.button4.TabIndex = 0;
-            this.button4.Text = "*";
+            this.button4.Text = "x";
             this.button4.UseVisualStyleBackColor = true;
             // 
             // label3
